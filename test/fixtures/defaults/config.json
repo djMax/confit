@@ -1,5 +1,6 @@
 {
     "default": "config",
     "override": "config",
-    "misc": "path:./config.json"
+    "misc": "path:./config.json",
+    "multi": "multi:./config.json"
 }
